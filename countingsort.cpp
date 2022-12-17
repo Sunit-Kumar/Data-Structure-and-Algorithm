@@ -13,7 +13,7 @@ int max(int arr[],int num){
     return max;
 }
 
-int countsort(int arr, int num){
+int countsort(int arr[], int num){
 
 }
 
